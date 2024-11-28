@@ -92,7 +92,7 @@ In this DockerFile:
 
 - We start with an OpenJDK base image.
 - We copy the shopfront jar file into the container.
-- We expose port 9010 for the service to be accessible.
+- We expose port 8010 for the service to be accessible.
 - The entry point is set to run the jar file inside the container using java.
 
 
