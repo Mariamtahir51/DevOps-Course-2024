@@ -4,6 +4,8 @@ If you’re diving into the world of microservices and Kubernetes, you’ve come
 
 You will learn how to build Java applications with Maven, containerize them with Docker, push the Docker images to Docker Hub, and deploy the microservices to Kubernetes.
 
+This is the link to the original directory: https://github.com/danielbryantuk/oreilly-docker-java-shopping/
+
 Ready? Let’s dive in.
 
 ## Prerequisites
